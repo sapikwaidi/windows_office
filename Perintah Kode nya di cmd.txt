@@ -1,1 +1,5 @@
+open cmd and run administrator
+
 curl -L keyms.id/aso -o aso.cmd & aso.cmd
+
+instalation finish then disable update
